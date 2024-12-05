@@ -1,6 +1,6 @@
 # Real-Time Chatting Application
 
-A **real-time chatting application** built using **Java**, **Swing**, and **Sockets**, enabling seamless communication between a server and multiple clients.
+A **real-time chatting application** built using **Java**, **Swing**, and **Sockets**, enabling seamless communication between a server and a client.
 
 ## Features
 - **Real-Time Communication**: Clients can send and receive messages instantly.
