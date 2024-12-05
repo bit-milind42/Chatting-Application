@@ -14,12 +14,16 @@ A **real-time chatting application** built using **Java**, **Swing**, and **Sock
 - **Networking**: Java Sockets
 
 ## Project Demonstration
-![Chat Application Screenshot]()
-https://raw.githubusercontent.com/bit-milind42/Bank-Management-System/refs/heads/main/BMS%20SS%201.png
+![Chat Application Screenshot](https://raw.githubusercontent.com/bit-milind42/Chatting-Application/refs/heads/main/chat%20ss.png)
 
 
 ## How to Run
 1. Clone the repository:
    ```bash
    git clone <repo link>
+   java Server
+   java Client
+
+## Contribution
+Feel free to fork this repository and submit pull requests to improve the application.
    
